@@ -1,0 +1,8 @@
+dockercreaft/
+*-cmdline
+*-efi.iso
+*-initrd.img
+*-kernel
+*.iso
+*.vmdk
+.DS_Store
